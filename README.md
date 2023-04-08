@@ -9,8 +9,6 @@
 
 #### I try to get better all the time in what I am doing
 
-#### You may contact me via discord: [NonSwag#8443](https://www.thenextlvl.net/discord).
-
 ---------------------------------------
 
 ## Github Stats
