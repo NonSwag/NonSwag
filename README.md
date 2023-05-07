@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/54660361/236687686-72419904-d09d-4714-9e7d-1cda3c2dae79.png)
-
 # Hey, my name is David aka. NonSwag
 #### I'm the representative of TheNextLvl.net
 
