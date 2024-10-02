@@ -2,8 +2,10 @@
 I'm the representative of TheNextLvl.net<br>
 I try to get better all the time in what I am doing
 
----------------------------------------
+---
 
-## Github Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=NonSwag&bg_color=30,251d52,4a31d6&show_icons=true&theme=nightowl)](https://www.thenextlvl.net)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NonSwag/NonSwag/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NonSwag/NonSwag/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NonSwag/NonSwag/output/github-contribution-grid-snake.svg">
+</picture>
